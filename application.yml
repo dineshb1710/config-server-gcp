@@ -1,3 +1,4 @@
+# Eureka Configuration
 eureka:
   instance:
     prefer-ip-address: true
